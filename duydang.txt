@@ -1,3 +1,6 @@
 Dang Ngoc Duy ne
 edit them 1 dong ne
+<<<<<<< HEAD
 them 1 dong tu nhanh duy2 --giu lai dong duy2
+=======
+>>>>>>> parent of 18851a8 (push file len duy2)
